@@ -1,4 +1,4 @@
 #!/bin/sh
- echo "======> sourcing locales" 
- source .profile.d/000_locale.sh
+ echo "\n======> sourcing locales" 
+ source ~/.profile.d/000_locale.sh
  exit 0 
