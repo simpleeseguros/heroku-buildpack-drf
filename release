@@ -1,0 +1,4 @@
+ #!/bin/sh
+ 
+ source .profile.d/000_locale.sh
+ exit 0 
