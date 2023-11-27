@@ -1,2 +1,5 @@
 #!/bin/sh
-exit 0 
+
+ echo "======> sourcing locales" 
+ source .profile.d/000_locale.sh
+ exit 0 
